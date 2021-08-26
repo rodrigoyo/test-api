@@ -14,6 +14,6 @@ export default function handler(req, res) {
     'adsetId': '3333',
     'adsetName': 'Adset Name',
     'adName': 'Ad name',
-    'retailer_item_id': '1232131',
+    'retailerItemId': '1232131',
   })
 }
