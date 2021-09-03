@@ -29,6 +29,6 @@ export default function handler(req, res) {
     ],
     'ad_name': 'Advertising - 8756',
     'adset_name': 'Advertising Set - 12',
-    'retailer_item_id': '1232131'
+    'retailer_item_id': '1008526604'
   })
 }
