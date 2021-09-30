@@ -24,6 +24,6 @@ export default function handler(req, res) {
         }
     ],
     'ad_name': '1008526604',
-    'adset_name': 'Advertising Set - 12'
+    'adset_name': '1008526604'
   })
 }
